@@ -1,0 +1,19 @@
+#bg-image {
+    background-image:      url(background.jpeg);
+    height: 100vh;
+    background-size: cover;
+}
+
+#tagline {
+    position: absolute;
+    width: 100%;
+    padding-top: 7em;
+}
+
+span {
+    color: #F42300;
+}
+h1:hover {
+    color:deepskyblue;
+      transform:                                 rotate(45deg);
+}
